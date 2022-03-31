@@ -1,5 +1,6 @@
 body {
     background-color:coral;
+    text-align: center;
 }
     h1 { 
    color: white;
@@ -21,4 +22,7 @@ h1 {
 }
 .p1{
     color: rgb(0, 0, 136);
+}
+#i {
+    margin-inline: 830px;
 }
